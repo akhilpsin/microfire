@@ -1,6 +1,3 @@
-Here's a simple `README.md` file to document your API framework project:
-
-```markdown
 # MicroFire - A Simple Custom API Framework in Python
 
 MicroFire is a lightweight and customizable Python framework for building APIs. It provides a basic server setup, route handling, middleware support, and a simple way to define and manage routes for your application.
